@@ -15,9 +15,11 @@ Standarising the data cleaning process name:
 - [x] ga-ma_cleaning
 
 
-Standarising the final data name:
+Standardising the final data name:
 - [ ] demographic_cleaned
 - [ ] creative_cleaned
 - [x] goal-stats_cleaned
 - [x] general-stats_cleaned
 - [x] ga-ma_cleaned
+
+This is where the raw dataset from Change Wholesale is cleaned and standardized. we drop some unneeded columns, rename columns, replace some name. Also a new column was created (Target Group), the six audience were categorised into three target group to achieve the business objectives.
