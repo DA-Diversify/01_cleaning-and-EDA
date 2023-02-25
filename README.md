@@ -22,4 +22,4 @@ Standardising the final data name:
 - [x] general-stats_cleaned
 - [x] ga-ma_cleaned
 
-This is where the raw dataset from Change Wholesale is cleaned and standardized. we drop some unneeded columns, rename columns, replace some name. Also a new column was created (Target Group), the six audience were categorised into three target group to achieve the business objectives.
+The raw dataset from Change Wholesale is cleaned and standardized. we drop some unneeded columns, rename columns, replace some name. Also a new column was created (Target Group), the six audience were categorised into three target group to achieve the business objectives.
